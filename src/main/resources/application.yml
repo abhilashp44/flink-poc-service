@@ -1,0 +1,5 @@
+kafka:
+  bootstrap-server: localhost:29092
+  source-topic: source
+  even-destination-topic: dest_even
+  odd-destination-topic: dest_odd
